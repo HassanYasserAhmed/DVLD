@@ -1,6 +1,5 @@
 ﻿using Microsoft.Data.SqlClient;
 namespace DVLD.DataAccessLayer.GeneralAdoMethods
-    //How are you
 {
     public static  class GenericAdoMethods
     {
