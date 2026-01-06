@@ -1,0 +1,235 @@
+[
+  {
+    "ContainingType": "DVLD.Api.Controllers.ApplicationController",
+    "Method": "Get",
+    "RelativePath": "api/Application",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.FileController",
+    "Method": "Upload",
+    "RelativePath": "api/File",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.FileController",
+    "Method": "GetImage",
+    "RelativePath": "api/File/Image",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.GeneralController",
+    "Method": "GetAllCountriesAsync",
+    "RelativePath": "api/General/Countries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "AddNewPersonAsync",
+    "RelativePath": "api/People",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DVLD.Api.Requests.AddNewPersonRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "UpdatePersonAsync",
+    "RelativePath": "api/People",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DVLD.Api.Requests.UpdatePersonRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "DeletePersonAsync",
+    "RelativePath": "api/People",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DVLD.Api.Requests.DeletePersonRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "GetPersonAsync",
+    "RelativePath": "api/People",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PersonID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "GetPeopleAsync",
+    "RelativePath": "api/People/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "AddProfileImageAsync",
+    "RelativePath": "api/People/ProfileImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DVLD.Api.Requests.AddImageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "UpdateProfileImageAsync",
+    "RelativePath": "api/People/ProfileImage",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DVLD.Api.Requests.AddImageRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "IsEmailValidAsync",
+    "RelativePath": "api/People/Validations/Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "IsNationalNumberValidASync",
+    "RelativePath": "api/People/Validations/NationalNumber",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NationalNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.PersonController",
+    "Method": "IsPhoneValidAsync",
+    "RelativePath": "api/People/Validations/Phone",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Phone",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DVLD.Api.Controllers.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/Users/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "DVLD.DataAccessLayer.DTOs.User.LoginRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

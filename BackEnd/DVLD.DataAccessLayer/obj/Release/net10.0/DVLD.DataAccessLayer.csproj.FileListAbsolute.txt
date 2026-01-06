@@ -1,0 +1,12 @@
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\bin\Release\net10.0\DVLD.DataAccessLayer.deps.json
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\bin\Release\net10.0\DVLD.DataAccessLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\bin\Release\net10.0\DVLD.DataAccessLayer.pdb
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.AssemblyInfo.cs
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\refint\DVLD.DataAccessLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\DVLD.DataAccessLayer.pdb
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.DataAccessLayer\obj\Release\net10.0\ref\DVLD.DataAccessLayer.dll

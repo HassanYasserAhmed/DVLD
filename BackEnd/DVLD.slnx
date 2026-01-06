@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DVLD.Api/DVLD.Api.csproj" />
+  <Project Path="DVLD.BusinessLogicLayer/DVLD.BusinessLogicLayer.csproj" />
+  <Project Path="DVLD.DataAccessLayer/DVLD.DataAccessLayer.csproj" />
+</Solution>

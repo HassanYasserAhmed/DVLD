@@ -1,0 +1,15 @@
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\bin\Debug\net10.0\DVLD.BusinessLogicLayer.deps.json
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\bin\Debug\net10.0\DVLD.BusinessLogicLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\bin\Debug\net10.0\DVLD.BusinessLogicLayer.pdb
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\bin\Debug\net10.0\DVLD.DataAccessLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\bin\Debug\net10.0\DVLD.DataAccessLayer.pdb
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.Bus.70A7A488.Up2Date
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\refint\DVLD.BusinessLogicLayer.dll
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\DVLD.BusinessLogicLayer.pdb
+C:\Users\prohy\OneDrive\Desktop\DVLD\DVLD.BusinessLogicLayer\obj\Debug\net10.0\ref\DVLD.BusinessLogicLayer.dll
