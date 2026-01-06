@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\genericadomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\genericadomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericAdoMethods.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T15:31:18.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

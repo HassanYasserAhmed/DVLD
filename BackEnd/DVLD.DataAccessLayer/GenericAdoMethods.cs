@@ -1,7 +1,6 @@
 ﻿using Microsoft.Data.SqlClient;
-using System;
 namespace DVLD.DataAccessLayer.GeneralAdoMethods
-    //git add
+    //How are you
 {
     public static  class GenericAdoMethods
     {
