@@ -1,345 +1,345 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\",
+  "WorkspaceRootPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\requests\\getpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\getpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\requests\\deletepersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\deletepersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\requests\\addnewpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\addnewpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\addnewpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\addnewpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\requests\\updatepersonrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\updatepersonrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\requests\\addimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\addimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\dvld.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\dvld.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\profileimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\profileimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\controllers\\gendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\gendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\generalmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\generalmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\dvld.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\dvld.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\getpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\getpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\logdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\logdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\genericadomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\genericadomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\genericadomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\logdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\logdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\requests\\getpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\getpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\requests\\deletepersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\deletepersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\requests\\addnewpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\addnewpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\addnewpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\addnewpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\generalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\requests\\updatepersonrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\updatepersonrequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\requests\\addimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\requests\\addimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\dvld.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\dvld.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\profileimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\profileimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\controllers\\gendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\controllers\\gendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\generalmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\generalmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\dvld.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\dvld.businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E255F60-9F5D-3E42-93D4-EC92BB4868BB}|DVLD.Api\\DVLD.Api.csproj|solutionrelative:dvld.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\getpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\getpersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\licensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\replaceldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\replaceldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\replaceldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\getlocaldriverlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\getlocaldriverlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\getlocaldriverlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\crudoperationswithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\crudoperationswithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\crudoperationswithado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\applicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\getinternationaldrivinglicensesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\getinternationaldrivinglicensesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\getinternationaldrivinglicensesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\licenseclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\licenseclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\licenseclassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\gendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\gendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\gendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\gendordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\gendordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\gendordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\driverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\driverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\driverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\application\\ldlapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\application\\ldlapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\application\\ldlapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\issueldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\issueldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\issueldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\issuereason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\issuereason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\issuereason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\application\\addnewldlapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\application\\addnewldlapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\application\\addnewldlapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\driverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\endriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\endriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\endriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\gendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\gendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\gendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\addtestappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\addtestappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\addtestappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\testtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\testtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\testtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\updatetesttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\updatetesttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\updatetesttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\testtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\testtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\testtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.businesslogiclayer\\enums\\teststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.businesslogiclayer\\enums\\teststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8534AF9-1688-EBC7-3505-0A1B81CCBDE5}|DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj|solutionrelative:dvld.businesslogiclayer\\enums\\teststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\getalltestappointmentsbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\getalltestappointmentsbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\getalltestappointmentsbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\test_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\test_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\test_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\license_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\license_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\license_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\general\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\general\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\general\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\general\\gendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\general\\gendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\general\\gendordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\driver\\driver_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\driver\\driver_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\driver\\driver_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\application\\application_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\application\\application_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\application\\application_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\person_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\person_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\person_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\user_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\user_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\user_logicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\license\\detainldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\license\\detainldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\license\\detainldlicensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\testappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\testappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\testappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\changetestappointmentdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\changetestappointmentdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\changetestappointmentdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\test\\taketestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\test\\taketestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\test\\taketestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\application\\updateapplicationtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\application\\updateapplicationtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\application\\updateapplicationtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\changeimagenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\changeimagenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\changeimagenamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\application\\applicationtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\application\\applicationtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\application\\applicationtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\sendemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\sendemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\sendemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\addnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\addnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\addnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\person\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\person\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\person\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\changeuseractivationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\changeuseractivationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\changeuseractivationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\dvld.dataaccesslayer\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|c:\\users\\prohy\\onedrive\\desktop\\dvld\\backend\\dvld.dataaccesslayer\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCB6DBB-6F0B-51F3-3D95-D993C7949C9B}|DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj|solutionrelative:dvld.dataaccesslayer\\dtos\\user\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -350,15 +350,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "GetLocalDriverLicenseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\GetLocalDriverLicenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\GetLocalDriverLicenseDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\GetLocalDriverLicenseDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\GetLocalDriverLicenseDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\GetLocalDriverLicenseDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\GetLocalDriverLicenseDTO.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,50 +367,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetPersonRequest.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\GetPersonRequest.cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\GetPersonRequest.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\GetPersonRequest.cs",
-              "RelativeToolTip": "DVLD.Api\\Requests\\GetPersonRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:32:51.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DeletePersonRequest.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\DeletePersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\DeletePersonRequest.cs",
               "RelativeDocumentMoniker": "DVLD.Api\\Requests\\DeletePersonRequest.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\DeletePersonRequest.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\DeletePersonRequest.cs",
               "RelativeToolTip": "DVLD.Api\\Requests\\DeletePersonRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:31:53.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T16:31:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:22:22.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
-              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
-              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\LoginRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:22:22.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "DVLD.Api\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\PersonController.cs",
               "RelativeToolTip": "DVLD.Api\\Controllers\\PersonController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,167 +404,193 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddNewPersonRequest.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\AddNewPersonRequest.cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\AddNewPersonRequest.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\AddNewPersonRequest.cs",
-              "RelativeToolTip": "DVLD.Api\\Requests\\AddNewPersonRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LogData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\LogData.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\LogData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\LogData.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\LogData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:24:57.351Z",
+              "WhenOpened": "2025-12-21T16:05:48.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddNewPersonDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
-              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
-              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GenericAdoMethods.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\GenericAdoMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:56:29.327Z",
+              "WhenOpened": "2025-12-21T20:47:12.155Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\GetPersonRequest.cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\GetPersonRequest.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\GetPersonRequest.cs",
+              "RelativeToolTip": "DVLD.Api\\Requests\\GetPersonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:32:51.307Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Responses\\Response.cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Responses\\Response.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Responses\\Response.cs",
-              "RelativeToolTip": "DVLD.Api\\Responses\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Title": "AddNewPersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\AddNewPersonRequest.cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\AddNewPersonRequest.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\AddNewPersonRequest.cs",
+              "RelativeToolTip": "DVLD.Api\\Requests\\AddNewPersonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:20:49.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T16:24:57.351Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GeneralController.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\GeneralController.cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Controllers\\GeneralController.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\GeneralController.cs",
-              "RelativeToolTip": "DVLD.Api\\Controllers\\GeneralController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Title": "AddNewPersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\AddNewPersonDTO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T14:37:13.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:56:29.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UpdatePersonRequest .cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\UpdatePersonRequest .cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\UpdatePersonRequest .cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\UpdatePersonRequest .cs",
-              "RelativeToolTip": "DVLD.Api\\Requests\\UpdatePersonRequest .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Responses\\Response.cs",
+              "RelativeToolTip": "DVLD.Api\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:26:16.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T16:20:49.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AddImageRequest.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\AddImageRequest.cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\AddImageRequest.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Requests\\AddImageRequest.cs",
-              "RelativeToolTip": "DVLD.Api\\Requests\\AddImageRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GeneralController.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\GeneralController.cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Controllers\\GeneralController.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\GeneralController.cs",
+              "RelativeToolTip": "DVLD.Api\\Controllers\\GeneralController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:26:09.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T14:37:13.012Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ApplicationController.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\ApplicationController.cs",
-              "RelativeDocumentMoniker": "DVLD.Api\\Controllers\\ApplicationController.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\ApplicationController.cs",
-              "RelativeToolTip": "DVLD.Api\\Controllers\\ApplicationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Title": "UpdatePersonRequest .cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\UpdatePersonRequest .cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\UpdatePersonRequest .cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\UpdatePersonRequest .cs",
+              "RelativeToolTip": "DVLD.Api\\Requests\\UpdatePersonRequest .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T16:26:29.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\PersonService.cs",
-              "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\PersonService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\PersonService.cs",
-              "RelativeToolTip": "DVLD.BusinessLogicLayer\\PersonService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAWwG4AAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:03:28.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DVLD.Api",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\DVLD.Api.csproj",
-              "RelativeDocumentMoniker": "DVLD.Api\\DVLD.Api.csproj",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\DVLD.Api.csproj",
-              "RelativeToolTip": "DVLD.Api\\DVLD.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-29T16:20:17.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T16:26:16.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
-              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "AddImageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\AddImageRequest.cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Requests\\AddImageRequest.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Requests\\AddImageRequest.cs",
+              "RelativeToolTip": "DVLD.Api\\Requests\\AddImageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:02:16.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T16:26:09.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "DVLD.Api\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "DVLD.Api\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:26:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\PersonService.cs",
+              "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\PersonService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\PersonService.cs",
+              "RelativeToolTip": "DVLD.BusinessLogicLayer\\PersonService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAWwG4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:03:28.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DVLD.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\DVLD.Api.csproj",
+              "RelativeDocumentMoniker": "DVLD.Api\\DVLD.Api.csproj",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\DVLD.Api.csproj",
+              "RelativeToolTip": "DVLD.Api\\DVLD.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T16:20:17.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ProfileImageDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
-              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
-              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:55:52.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T19:02:16.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "CountryService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\CountryService.cs",
-              "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\CountryService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\CountryService.cs",
-              "RelativeToolTip": "DVLD.BusinessLogicLayer\\CountryService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA0AAABOAAAAAAAAAA==",
+              "Title": "ProfileImageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
+              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
+              "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\ProfileImageDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T17:29:16.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T18:55:52.694Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\CountryService.cs",
+              "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\CountryService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\CountryService.cs",
+              "RelativeToolTip": "DVLD.BusinessLogicLayer\\CountryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T17:29:16.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "PersonData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\PersonData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\PersonData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\PersonData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\PersonData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\PersonData.cs",
               "ViewState": "AgIAAMIAAAAAAAAAAAD4v8oAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -587,24 +598,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "GendorController.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\GendorController.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\GendorController.cs",
               "RelativeDocumentMoniker": "DVLD.Api\\Controllers\\GendorController.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Controllers\\GendorController.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Controllers\\GendorController.cs",
               "RelativeToolTip": "DVLD.Api\\Controllers\\GendorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T14:36:51.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T14:36:51.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "DVLD.BusinessLogicLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -612,11 +622,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Person.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\Person.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Person.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Person.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -624,11 +634,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Validations.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Validations.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Validations.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\Validations.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Validations.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Validations.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\Validations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,11 +646,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "GeneralMethods.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\GeneralMethods.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\GeneralMethods.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\GeneralMethods.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\GeneralMethods.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\GeneralMethods.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\GeneralMethods.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,11 +658,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "LicenseService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\LicenseService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\LicenseService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\LicenseService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\LicenseService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\LicenseService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\LicenseService.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAowA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -660,11 +670,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Program.cs",
               "RelativeDocumentMoniker": "DVLD.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\Program.cs",
               "RelativeToolTip": "DVLD.Api\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -672,23 +682,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LogData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\LogData.cs",
-              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\LogData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\LogData.cs",
-              "RelativeToolTip": "DVLD.DataAccessLayer\\LogData.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAASwCMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T16:05:48.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "GetPersonDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\GetPersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\GetPersonDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\GetPersonDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\GetPersonDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\GetPersonDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\GetPersonDTO.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA5wA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -696,23 +694,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GenericAdoMethods.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\GenericAdoMethods.cs",
-              "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\GenericAdoMethods.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\GenericAdoMethods.cs",
-              "RelativeToolTip": "DVLD.DataAccessLayer\\GenericAdoMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T20:47:12.155Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 27,
               "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\UserData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\UserData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\UserData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\UserData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\UserData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\UserData.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAA5wAEBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -722,22 +708,21 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\UserService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\UserService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\UserService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\UserService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\UserService.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAD4v3oAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T17:38:05.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-21T17:38:05.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "LicenseData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\LicenseData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\LicenseData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\LicenseData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\LicenseData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\LicenseData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\LicenseData.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwv9sAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -747,9 +732,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Person\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Person\\Person.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\Person\\Person.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Person\\Person.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Person\\Person.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\Person\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -759,9 +744,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "CrudOperationsWithAdo.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\CrudOperationsWithAdo.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\CrudOperationsWithAdo.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\CrudOperationsWithAdo.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\CrudOperationsWithAdo.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\CrudOperationsWithAdo.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\CrudOperationsWithAdo.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAAGcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -771,9 +756,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "GetInternationalDrivingLicensesDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\GetInternationalDrivingLicensesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\GetInternationalDrivingLicensesDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\GetInternationalDrivingLicensesDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\GetInternationalDrivingLicensesDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\GetInternationalDrivingLicensesDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\GetInternationalDrivingLicensesDTO.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -783,9 +768,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ReplaceLDLicenseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\ReplaceLDLicenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\ReplaceLDLicenseDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\ReplaceLDLicenseDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\ReplaceLDLicenseDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\ReplaceLDLicenseDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\ReplaceLDLicenseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -795,9 +780,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "LicenseClassDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\LicenseClassDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\LicenseClassDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\LicenseClassDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\LicenseClassDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\LicenseClassDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\LicenseClassDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -807,9 +792,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "ApplicationData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\ApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\ApplicationData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\ApplicationData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\ApplicationData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\ApplicationData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\ApplicationData.cs",
               "ViewState": "AgIAAM8AAAAAAAAAAAAswLoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -819,9 +804,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "GendorService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\GendorService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\GendorService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\GendorService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\GendorService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\GendorService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\GendorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -831,9 +816,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "CountryData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\CountryData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\CountryData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\CountryData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\CountryData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\CountryData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\CountryData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -843,9 +828,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "GendorData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\GendorData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\GendorData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\GendorData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\GendorData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\GendorData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\GendorData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -855,9 +840,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "DriverData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DriverData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DriverData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DriverData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DriverData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DriverData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DriverData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -867,9 +852,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "TestData.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\TestData.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\TestData.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\TestData.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\TestData.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\TestData.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\TestData.cs",
               "ViewState": "AgIAANQAAAAAAAAAAAAcwEUAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -879,9 +864,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "TestService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\TestService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\TestService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\TestService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\TestService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\TestService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\TestService.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAswDQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -891,9 +876,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "ApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\ApplicationService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\ApplicationService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\ApplicationService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\ApplicationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -903,9 +888,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "LDLApplicationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\LDLApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\LDLApplicationDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Application\\LDLApplicationDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\LDLApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\LDLApplicationDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Application\\LDLApplicationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -915,9 +900,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "IssueLDLicenseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\IssueLDLicenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\IssueLDLicenseDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\IssueLDLicenseDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\IssueLDLicenseDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\IssueLDLicenseDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\IssueLDLicenseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -927,9 +912,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "IssueReason.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\IssueReason.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\IssueReason.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\IssueReason.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\IssueReason.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\IssueReason.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\IssueReason.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -939,9 +924,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "ApplicationStatus.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\ApplicationStatus.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\ApplicationStatus.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\ApplicationStatus.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\ApplicationStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -951,9 +936,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "License.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\License.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\License.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\License.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\License.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\License.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\License.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -963,9 +948,9 @@
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Application.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Application.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\Application.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Application.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Application.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\Application.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -975,9 +960,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "AddNewLDLApplicationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\AddNewLDLApplicationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\AddNewLDLApplicationDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Application\\AddNewLDLApplicationDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\AddNewLDLApplicationDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\AddNewLDLApplicationDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Application\\AddNewLDLApplicationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -987,9 +972,9 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Country.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Country.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\Country.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Country.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Country.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -999,9 +984,9 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "DriverService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DriverService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DriverService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\DriverService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DriverService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DriverService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\DriverService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1011,9 +996,9 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "enDriver.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\enDriver.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\enDriver.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\enDriver.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\enDriver.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\enDriver.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\enDriver.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1023,9 +1008,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\FileService.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\FileService.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\FileService.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\FileService.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\FileService.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\FileService.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1035,9 +1020,9 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "Gendor.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Gendor.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Gendor.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\Gendor.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\Gendor.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\Gendor.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\Gendor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1047,9 +1032,9 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "UpdatePersonDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\UpdatePersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\UpdatePersonDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\UpdatePersonDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\UpdatePersonDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\UpdatePersonDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\UpdatePersonDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1059,9 +1044,9 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "AddTestAppointmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\AddTestAppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\AddTestAppointmentDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\AddTestAppointmentDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\AddTestAppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\AddTestAppointmentDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\AddTestAppointmentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1071,9 +1056,9 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "TestTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\TestTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\TestTypeDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\TestTypeDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\TestTypeDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\TestTypeDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\TestTypeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1083,9 +1068,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "UpdateTestTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\UpdateTestTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\UpdateTestTypeDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\UpdateTestTypeDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\UpdateTestTypeDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\UpdateTestTypeDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\UpdateTestTypeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1095,9 +1080,9 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\User.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\User.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\User.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\User.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\User.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1107,9 +1092,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "TestTypes.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\TestTypes.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\TestTypes.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\TestTypes.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\TestTypes.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\TestTypes.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\TestTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1119,9 +1104,9 @@
               "$type": "Document",
               "DocumentIndex": 62,
               "Title": "TestStatus.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\TestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\TestStatus.cs",
               "RelativeDocumentMoniker": "DVLD.BusinessLogicLayer\\Enums\\TestStatus.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\Enums\\TestStatus.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\Enums\\TestStatus.cs",
               "RelativeToolTip": "DVLD.BusinessLogicLayer\\Enums\\TestStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1131,9 +1116,9 @@
               "$type": "Document",
               "DocumentIndex": 63,
               "Title": "GetAllTestAppointmentsByIDDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\GetAllTestAppointmentsByIDDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\GetAllTestAppointmentsByIDDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\GetAllTestAppointmentsByIDDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\GetAllTestAppointmentsByIDDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\GetAllTestAppointmentsByIDDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\GetAllTestAppointmentsByIDDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1143,9 +1128,9 @@
               "$type": "Document",
               "DocumentIndex": 69,
               "Title": "Application_LogicDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\Application_LogicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\Application_LogicDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Application\\Application_LogicDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\Application_LogicDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\Application_LogicDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Application\\Application_LogicDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1155,9 +1140,9 @@
               "$type": "Document",
               "DocumentIndex": 68,
               "Title": "Driver_LogicDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Driver\\Driver_LogicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Driver\\Driver_LogicDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Driver\\Driver_LogicDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Driver\\Driver_LogicDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Driver\\Driver_LogicDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Driver\\Driver_LogicDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1167,9 +1152,9 @@
               "$type": "Document",
               "DocumentIndex": 66,
               "Title": "CountryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\General\\CountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\General\\CountryDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\General\\CountryDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\General\\CountryDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\General\\CountryDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\General\\CountryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1179,9 +1164,9 @@
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "License_LogicDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\License_LogicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\License_LogicDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\License_LogicDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\License_LogicDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\License_LogicDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\License_LogicDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1191,9 +1176,9 @@
               "$type": "Document",
               "DocumentIndex": 64,
               "Title": "Test_LogicDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\Test_LogicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\Test_LogicDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\Test_LogicDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\Test_LogicDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\Test_LogicDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\Test_LogicDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1203,9 +1188,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "Person_LogicDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\Person_LogicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\Person_LogicDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\Person_LogicDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\Person_LogicDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\Person_LogicDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\Person_LogicDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1215,9 +1200,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "User_LogicDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\User_LogicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\User_LogicDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\User_LogicDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\User_LogicDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\User_LogicDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\User_LogicDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1227,9 +1212,9 @@
               "$type": "Document",
               "DocumentIndex": 72,
               "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\UserDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\UserDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\UserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1239,9 +1224,9 @@
               "$type": "Document",
               "DocumentIndex": 67,
               "Title": "GendorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\General\\GendorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\General\\GendorDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\General\\GendorDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\General\\GendorDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\General\\GendorDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\General\\GendorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1251,9 +1236,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "DetainLDLicenseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\DetainLDLicenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\DetainLDLicenseDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\License\\DetainLDLicenseDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\License\\DetainLDLicenseDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\License\\DetainLDLicenseDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\License\\DetainLDLicenseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1263,9 +1248,9 @@
               "$type": "Document",
               "DocumentIndex": 75,
               "Title": "ChangeTestAppointmentDateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\ChangeTestAppointmentDateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\ChangeTestAppointmentDateDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\ChangeTestAppointmentDateDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\ChangeTestAppointmentDateDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\ChangeTestAppointmentDateDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\ChangeTestAppointmentDateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1275,9 +1260,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "TestAppointmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\TestAppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\TestAppointmentDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\TestAppointmentDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\TestAppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\TestAppointmentDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\TestAppointmentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1287,9 +1272,9 @@
               "$type": "Document",
               "DocumentIndex": 76,
               "Title": "TakeTestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\TakeTestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\TakeTestDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Test\\TakeTestDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Test\\TakeTestDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Test\\TakeTestDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Test\\TakeTestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1299,9 +1284,9 @@
               "$type": "Document",
               "DocumentIndex": 77,
               "Title": "UpdateApplicationTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\UpdateApplicationTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\UpdateApplicationTypeDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Application\\UpdateApplicationTypeDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\UpdateApplicationTypeDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\UpdateApplicationTypeDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Application\\UpdateApplicationTypeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1311,9 +1296,9 @@
               "$type": "Document",
               "DocumentIndex": 79,
               "Title": "ApplicationTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\ApplicationTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\ApplicationTypeDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Application\\ApplicationTypeDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Application\\ApplicationTypeDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Application\\ApplicationTypeDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Application\\ApplicationTypeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1323,9 +1308,9 @@
               "$type": "Document",
               "DocumentIndex": 80,
               "Title": "SendEmailDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\SendEmailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\SendEmailDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\SendEmailDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\SendEmailDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\SendEmailDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\SendEmailDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1335,9 +1320,9 @@
               "$type": "Document",
               "DocumentIndex": 81,
               "Title": "AddNewUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\AddNewUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\AddNewUserDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\AddNewUserDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\AddNewUserDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\AddNewUserDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\AddNewUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1347,9 +1332,9 @@
               "$type": "Document",
               "DocumentIndex": 78,
               "Title": "ChangeImageNameDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\ChangeImageNameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\ChangeImageNameDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\ChangeImageNameDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\ChangeImageNameDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\ChangeImageNameDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\ChangeImageNameDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1359,9 +1344,9 @@
               "$type": "Document",
               "DocumentIndex": 82,
               "Title": "PersonDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\PersonDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\Person\\PersonDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\Person\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\Person\\PersonDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\Person\\PersonDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1371,9 +1356,9 @@
               "$type": "Document",
               "DocumentIndex": 83,
               "Title": "ChangeUserActivationDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\ChangeUserActivationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\ChangeUserActivationDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\ChangeUserActivationDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\ChangeUserActivationDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\ChangeUserActivationDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\ChangeUserActivationDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1383,9 +1368,9 @@
               "$type": "Document",
               "DocumentIndex": 84,
               "Title": "ChangePasswordDTO.cs",
-              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "DVLD.DataAccessLayer\\DTOs\\User\\ChangePasswordDTO.cs",
-              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DTOs\\User\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DTOs\\User\\ChangePasswordDTO.cs",
               "RelativeToolTip": "DVLD.DataAccessLayer\\DTOs\\User\\ChangePasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

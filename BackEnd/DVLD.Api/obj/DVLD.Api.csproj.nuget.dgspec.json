@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\DVLD.Api.csproj": {}
+    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\DVLD.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\DVLD.Api.csproj": {
+    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\DVLD.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\DVLD.Api.csproj",
+        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\DVLD.Api.csproj",
         "projectName": "DVLD.Api",
-        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\DVLD.Api.csproj",
+        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\DVLD.Api.csproj",
         "packagesPath": "C:\\Users\\prohy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.Api\\obj\\",
+        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj"
+              "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj"
               }
             }
           }
@@ -504,14 +504,14 @@
         }
       }
     },
-    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj": {
+    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
         "projectName": "DVLD.BusinessLogicLayer",
-        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
+        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\prohy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\obj\\",
+        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -532,8 +532,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj"
+              "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj"
               }
             }
           }
@@ -847,14 +847,14 @@
         }
       }
     },
-    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {
+    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
         "projectName": "DVLD.DataAccessLayer",
-        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\prohy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

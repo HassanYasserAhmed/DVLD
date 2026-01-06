@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {}
+    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {
+    "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
         "projectName": "DVLD.DataAccessLayer",
-        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\DVLD.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\prohy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

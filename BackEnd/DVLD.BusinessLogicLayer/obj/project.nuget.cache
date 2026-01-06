@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnWRw6IYJCI=",
+  "dgSpecHash": "OO7C7Q9AbAI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\prohy\\OneDrive\\Desktop\\DVLD\\BackEnd\\DVLD.BusinessLogicLayer\\DVLD.BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prohy\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\prohy\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
